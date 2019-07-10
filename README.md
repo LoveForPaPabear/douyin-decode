@@ -1,37 +1,21 @@
-# jenkins_demo
+# 获取抖音去水印视频
 
 #### 介绍
-测试jenkins_demo
+基于这个同学思路然后改进的java版本
+https://github.com/zbfzn/douyin-clear-php.git
 
-#### 软件架构
-软件架构说明
+#### 测试启动类
+DouYinDecodeMain
 
+#### 使用说明-1
 
-#### 安装教程
+直接运行: DouYinDecodeMain
 
-1. xxxx
-2. xxxx
-3. xxxx
+#### 使用说明-2
 
-#### 使用说明
+如果获取的视频网页打不开，可以打开浏览器，然后f12
 
-1. xxxx
-2. xxxx
-3. xxxx
+![image](https://user-images.githubusercontent.com/33890981/60934770-1804c400-a2fa-11e9-872c-bec09c5e5ceb.png)
 
-#### 参与贡献
+#### thanks for watching ，programming change the world
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
